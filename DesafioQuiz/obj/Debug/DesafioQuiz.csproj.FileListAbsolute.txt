@@ -1,0 +1,7 @@
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\bin\Debug\DesafioQuiz.exe.config
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\bin\Debug\DesafioQuiz.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\bin\Debug\DesafioQuiz.pdb
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\obj\Debug\DesafioQuiz.csprojAssemblyReference.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\obj\Debug\DesafioQuiz.csproj.CoreCompileInputs.cache
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\obj\Debug\DesafioQuiz.exe
+C:\Users\rodrigo.gsantana1\Desktop\Aulas de Programação\DesafioQuiz\DesafioQuiz\obj\Debug\DesafioQuiz.pdb
